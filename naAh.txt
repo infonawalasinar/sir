@@ -470,7 +470,7 @@ terpercaya untuk semua member yang sudah bergabung di dalam slot qris." />
                   >
                     
                       <div class="header-title-text">
-                        <a id="site-title" href="https://lpm.pelitabangsa.ac.id/wp-content/sl-qris/" data-animation-role="header-element">Slot Kamboja</a>
+                        <a id="site-title" href="https://lpm.pelitabangsa.ac.id/wp-content/sl-qris/" data-animation-role="header-element">Slot Qris</a>
                       </div>
                     
                     
@@ -662,7 +662,7 @@ terpercaya untuk semua member yang sudah bergabung di dalam slot qris." />
                   >
                     
                       <div class="header-title-text">
-                        <a id="site-title" href="https://lpm.pelitabangsa.ac.id/wp-content/sl-qris/" data-animation-role="header-element">Slot Kamboja</a>
+                        <a id="site-title" href="https://lpm.pelitabangsa.ac.id/wp-content/sl-qris/" data-animation-role="header-element">Slot Qris</a>
                       </div>
                     
                     
