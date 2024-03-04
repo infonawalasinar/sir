@@ -3,7 +3,7 @@
 <!--  created with sitemap generator https://octopus.do  -->
 
     <url>
-        <loc>https://akademi-tni.mil.id/uploads/images/contents/mako-akademi/halodek/rakatoto-slot-gacor/</loc>
+        <loc>https://lpm.pelitabangsa.ac.id/wp-content/sl-qris/</loc>
         <lastmod>2024-02-09</lastmod>
         <changefreq>always</changefreq>
         <priority>1</priority>
